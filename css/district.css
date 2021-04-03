@@ -31,7 +31,7 @@ img{
 }
 
 body{
-    background-image: url('/Pictures/distrcts.jpg');
+    background-image: url('../Pictures/distrcts.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }

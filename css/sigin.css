@@ -70,6 +70,6 @@
 
 body{
     color:white;
-	background-image: url('/Pictures/signin.jpg');
+	background-image: url('../Pictures/signin.jpg');
 	font-family: 'Roboto', sans-serif;
 }

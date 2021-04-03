@@ -1,0 +1,62 @@
+
+body {
+    margin:0px;
+    padding:0px;
+    width:auto;
+    
+  }
+  .navbar
+  {
+      height:3.5em;
+      width:auto;
+      margin-left:-17px;
+      padding-left: 50%;
+      
+  }
+  .logo
+  {
+      width:100%;
+      height:3.5em;
+
+      
+  }
+
+  .logo img{
+      height:3em;
+      width:75%;
+  }
+
+
+  .carousel-inner .carousel-item {
+    transition: transform 0.3 ease;
+
+
+  }
+
+  .navbar-toggler {
+    padding: 8px 15px;
+    border: 0;
+    border-radius: 0;
+    transform: skewX(-15deg);
+    background-color:black;
+  }
+
+.navbar-toggler i { transform: skewX(15deg); }
+#tm-main-nav {
+  position: fixed;
+  top: 50px;
+  right: 40px;
+  padding-bottom: 0;
+  
+}  
+
+.navbar{
+  z-index: 2;
+  position: relative;
+  
+}
+
+.carousel{
+  z-index: 1;
+  position: relative;
+}

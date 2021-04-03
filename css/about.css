@@ -1,0 +1,24 @@
+.disc{
+    padding-top:1%;
+    background-color:darkcyan;
+    color:white;
+    padding-left: 5%;
+    line-height: 1.5;
+    text-align: justify;
+    padding-right:4%;
+}
+.map .map1{
+    background-color: white;
+    height: 100%;
+    width:100%;
+}
+
+.disc h2{
+color:navy;
+letter-spacing: 0.5px;
+}
+
+.map img{
+    align-items: center;
+    padding-top: 15%;
+}

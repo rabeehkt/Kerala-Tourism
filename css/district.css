@@ -1,0 +1,45 @@
+
+a{
+    text-decoration:none;
+}
+
+h2{
+    color:darkblue;
+    letter-spacing: 1px;
+}
+h4{
+    color:brown
+}
+
+img{
+    height:90%;
+    width:90%;
+}
+
+.mg{
+    margin-bottom: 5%;
+    margin-left: 1%;
+    padding-right: 1%;
+   
+}
+.sd{
+    margin-top: 1.5em;
+}
+.place{
+    text-align: center;
+    text-decoration: none;
+}
+
+body{
+    background-image: url('/Pictures/distrcts.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.pk{
+    margin-top: -120px;
+}
